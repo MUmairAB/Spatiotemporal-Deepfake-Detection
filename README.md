@@ -1,0 +1,3 @@
+# Spatiotemporal Deepfake Detection with Cross-Manipulation Generalization: A Hybrid CNN-Transformer Approach on FaceForensics++
+
+Repo is underconstruction...
