@@ -1,0 +1,46 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+
+# Thumbnails
+._*
+
+# Files created by Finder on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Spotlight files
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Volume configuration
+.VolumeIcon.icns
+
+# iCloud generated files
+*.icloud
+
+# macOS archive utility temp files
+*.zip.cpgz
+
+# Vim swap files
+*.swp
+*.swo
+
+# Emacs backup files
+*~
+
+# General temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
